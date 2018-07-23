@@ -1,0 +1,1 @@
+After executing program you have to give sentence to get possible suggestions for all words
